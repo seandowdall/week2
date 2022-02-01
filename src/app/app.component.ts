@@ -10,7 +10,8 @@ export class AppComponent {
   thingsToDo = [
     'Learn Javascript',
     'Learn Angular',
-    'Learn Redux'
+    'Learn Redux',
+    'Name: Sean Dowdall, Student No: s00210945'
   ];
   thingsCompleted = [];
 
